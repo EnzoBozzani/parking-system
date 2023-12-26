@@ -1,0 +1,14 @@
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/bin/Debug/net8.0/desafio-estacionamento
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/bin/Debug/net8.0/desafio-estacionamento.deps.json
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/bin/Debug/net8.0/desafio-estacionamento.runtimeconfig.json
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/bin/Debug/net8.0/desafio-estacionamento.dll
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/bin/Debug/net8.0/desafio-estacionamento.pdb
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.AssemblyInfoInputs.cache
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.AssemblyInfo.cs
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.csproj.CoreCompileInputs.cache
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.dll
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/refint/desafio-estacionamento.dll
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.pdb
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/desafio-estacionamento.genruntimeconfig.cache
+/Users/enzobozzani/Documents/Estudos/BootCampDecolaTech/desafio-estacionamento/obj/Debug/net8.0/ref/desafio-estacionamento.dll
