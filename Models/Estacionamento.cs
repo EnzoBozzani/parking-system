@@ -40,7 +40,7 @@ namespace desafio_estacionamento.Models
             int.TryParse(Console.ReadLine(), out int hours);
             int tax = initialRate + (hours * hourRate);
             Veiculos.Remove(placa);
-            Console.WriteLine($"O veículod de placa {placa} foi removido e o valor é de {tax:C}");
+            Console.WriteLine($"O veículo de placa {placa} foi removido e o valor é de {tax:C}");
             Console.WriteLine("Pressione ENTER para avançar");
             Console.ReadLine();
             Console.Clear();
@@ -59,7 +59,7 @@ namespace desafio_estacionamento.Models
             }
             for (int i = 0; i < Veiculos.Count; i++)
             {
-                Console.WriteLine($"Veiculo {i}: {Veiculos[i]}");
+                Console.WriteLine($"Veiculo {i + 1}: {Veiculos[i]}");
             }
             Console.WriteLine("Pressione ENTER para avançar");
             Console.ReadLine();
